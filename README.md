@@ -1,53 +1,34 @@
-<h1 align="center">Merhaba, Ben Abdulsamet 👋</h1>
-<h3 align="center">Full-Stack Geliştirici | 6 Yıllık Deneyim | Linux Tutkunu</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:255E63&height=200&section=header&text=Abdulsamet%20Kasal&fontSize=40&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%206%20Years%20Experience&descAlign=50&descAlignY=55" />
+</div>
 
 <p align="center">
-  <a href="https://abdulskasal.rf.gd/?i=1" target="_blank">
-    <img src="https://img.shields.io/badge/Kişisel_Portföy-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulsamet-kasal-ab2a55385/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/abdulsdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=255E63&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Merhaba+Dünya!%22);%3E_6+yıllık+Full-Stack+Geliştirme+Deneyimi;%3E_Linux+(Arch)+%26+Vibe+Coding+Tutkunu;%3E_Otomasyon+ve+Yapay+Zeka+Entegrasyonları" alt="Typing SVG" />
   </a>
 </p>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdulsamet-kasal-ab2a55385/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/abdulsdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://abdulskasal.rf.gd/?i=1" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"></a>
+</div>
 
-### 👨‍💻 Benim Hakkımda
+<br/>
 
-* 🎓 **Trakya Üniversitesi**'nde Bilgisayar Programcılığı bölümünde eğitimime devam ediyorum.
-* 💻 **6 yıldır** yazılım dünyasının içindeyim; mimari tasarımdan, veritabanı yönetimine kadar uçtan uca sistemler geliştiriyorum.
-* 🐧 Günlük hayatımda ve geliştirme süreçlerimde bir **Linux** (özellikle Arch tabanlı sistemler) tutkunuyum.
-* 🤖 Vibe coding ve yapay zeka destekli geliştirme asistanlarıyla (AI-assisted development) entegre çalışarak modern ve hızlı çözümler üretiyorum.
-* ⚡ Otomasyon sistemleri, donanım-yazılım haberleşmesi ve ölçeklenebilir backend mimarileri üzerinde çalışmaktan keyif alıyorum.
+### 👨‍💻 `whoami`
 
----
-
-### 🛠️ Teknoloji Yığınım
-
-**Diller & Frameworkler:**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
-
-**Veritabanı & Araçlar:**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamet-kasal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamet-kasal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+```json
+{
+  "developer": "Abdulsamet Kasal",
+  "status": "Computer Programming Student @ Trakya University",
+  "experience": "6+ Years Building Systems",
+  "focus_areas": [
+    "Full-Stack Web Architecture",
+    "Hardware-Software Comm. (BLE / Integrations)",
+    "AI-Assisted Development (Vibe Coding)",
+    "Financial Market Algorithms"
+  ],
+  "environment": "Arch Linux (CachyOS)",
+  "side_quests": ["Bağlama (Bozlak)", "Algorithmic Trading (XAU/USD)", "Gaming"]
+}
