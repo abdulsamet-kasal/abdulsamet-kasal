@@ -29,16 +29,6 @@
 
 ---
 
-### 🎧 Şu An Çalıyor
-
-<p align="center">
-  <a href="https://github.com/novathem/novathem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novathem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ### 📈 Dinleyici İstatistikleri (GitHub Stats)
 
 <div align="center">
