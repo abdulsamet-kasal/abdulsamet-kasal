@@ -17,17 +17,7 @@
 * 🐧 Geliştirme ortamı olarak **Arch Linux (CachyOS)** kullanıyor ve Vibe Coding yaklaşımlarıyla yapay zeka destekli süreçler tasarlıyorum.
 * ⚙️ Otomasyon, donanım haberleşmesi ve backend mimarileri üzerine çalışmaktan keyif alıyorum.
 
----
 
-### 💿 En Çok Dinlenenler (Teknoloji Yığınım)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,python,js,nodejs,nextjs,html,css,linux,arch,git,vscode&theme=dark&perline=8" />
-  </a>
-</p>
-
----
 
 ### 📈 Dinleyici İstatistikleri (GitHub Stats)
 
