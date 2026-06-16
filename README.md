@@ -1,34 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:255E63&height=200&section=header&text=Abdulsamet%20Kasal&fontSize=40&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%206%20Years%20Experience&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=Abdulsamet%20Kasal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=255E63&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Merhaba+Dünya!%22);%3E_6+yıllık+Full-Stack+Geliştirme+Deneyimi;%3E_Linux+(Arch)+%26+Vibe+Coding+Tutkunu;%3E_Otomasyon+ve+Yapay+Zeka+Entegrasyonları" alt="Typing SVG" />
+  <a href="https://abdulskasal.rf.gd/?i=1"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Web&logoColor=1DB954" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdulsamet-kasal-ab2a55385/"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/abdulsdev"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=1DB954" alt="Instagram" /></a>
+</p>
+
+---
+
+### 🎵 Hakkımda
+
+* 🎓 **Trakya Üniversitesi** Bilgisayar Programcılığı bölümünde okuyorum.
+* 💻 **6 yıllık** yazılım serüvenimde mimari tasarımdan veritabanı yönetimine uçtan uca sistemler geliştiriyorum.
+* 🐧 Geliştirme ortamı olarak **Arch Linux (CachyOS)** kullanıyor ve Vibe Coding yaklaşımlarıyla yapay zeka destekli süreçler tasarlıyorum.
+* ⚙️ Otomasyon, donanım haberleşmesi ve backend mimarileri üzerine çalışmaktan keyif alıyorum.
+
+---
+
+### 💿 En Çok Dinlenenler (Teknoloji Yığınım)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,python,js,nodejs,nextjs,html,css,linux,arch,git,vscode&theme=dark&perline=8" />
   </a>
 </p>
 
+---
+
+### 🎧 Şu An Çalıyor
+
+<p align="center">
+  <a href="https://github.com/novathem/novathem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novathem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+### 📈 Dinleyici İstatistikleri (GitHub Stats)
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdulsamet-kasal-ab2a55385/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/abdulsdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://abdulskasal.rf.gd/?i=1" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamet-kasal&show_icons=true&theme=spotify-dark&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamet-kasal&layout=compact&theme=spotify-dark&hide_border=true&bg_color=121212&title_color=1DB954&text_color=ffffff" width="48%" />
 </div>
-
-<br/>
-
-### 👨‍💻 `whoami`
-
-```json
-{
-  "developer": "Abdulsamet Kasal",
-  "status": "Computer Programming Student @ Trakya University",
-  "experience": "6+ Years Building Systems",
-  "focus_areas": [
-    "Full-Stack Web Architecture",
-    "Hardware-Software Comm. (BLE / Integrations)",
-    "AI-Assisted Development (Vibe Coding)",
-    "Financial Market Algorithms"
-  ],
-  "environment": "Arch Linux (CachyOS)",
-  "side_quests": ["Bağlama (Bozlak)", "Algorithmic Trading (XAU/USD)", "Gaming"]
-}
