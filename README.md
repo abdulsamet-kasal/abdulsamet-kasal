@@ -19,9 +19,3 @@
 
 
 
-### 📈 Dinleyici İstatistikleri (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamet-kasal&show_icons=true&theme=spotify-dark&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamet-kasal&layout=compact&theme=spotify-dark&hide_border=true&bg_color=121212&title_color=1DB954&text_color=ffffff" width="48%" />
-</div>
